@@ -17,6 +17,10 @@
   ```
 
 - 启动服务：net start mysql
+
 - 登录密码：mysql -u root -p
+
 - 卸载MySQL。sc delete mysql
+
+- desc查看表结构的详细信息：desc table_name；
 
